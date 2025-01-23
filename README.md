@@ -14,8 +14,8 @@ A passionate developer with a love for innovative technology and solving complex
 <!-- Add more technology badges -->
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cong-minhh&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cong-minhh&layout=compact)
 
 ## 🌟 Featured Projects
 ### [Project Name 1](https://github.com/yourusername/project1)
