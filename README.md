@@ -30,7 +30,7 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cong-minhh&layout=compact&theme=radical)
 
 ## 🔥 Streak Stats
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=cong-minhh&theme=onedark&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=cong-minhh&theme=onedark&hide_border=true)]
 
 ## 💡 Featured Projects
 - 🎲 **Xiangqi Online Platform**
