@@ -29,7 +29,7 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cong-minhh&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cong-minhh&layout=compact&theme=radical)
 
-## 🔥 Streak Stats  
+## 🔥 Contribution Insights
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=cong-minhh&theme=onedark&hide_border=true)](https://git.io/streak-stats)
 
 ## 💡 Featured Projects  
@@ -55,7 +55,6 @@
 - 🔍 Exploring cutting-edge technologies  
 - 🤝 Collaborative problem-solving  
 - 🚀 Continuous learning and skill enhancement  
-
 🎯 Current Learning Path  
 - Advanced Rust Concurrency  
 - Optimized Algorithm Design  
