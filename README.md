@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Duc
 
-## 🚀 About Me
+## 🌐 Summary about me
 - 💻 Software Developer | Tech Enthusiast
 - 🌱 Full-Stack Developer specializing in Web and Mobile Applications
 - 🔭 Open to collaborating on innovative projects
