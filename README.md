@@ -5,6 +5,18 @@
 - 🌱 Full-Stack Developer specializing in Web and Mobile Applications
 - 🔭 Open to collaborating on innovative projects
 
+## 🏆 Profile Highlights
+🌟 Professional Focus
+- 💻 Building scalable and efficient software solutions
+- 🔍 Exploring cutting-edge technologies
+- 🤝 Collaborative problem-solving
+- 🚀 Continuous learning and skill enhancement
+
+🎯 Current Learning Path
+- Advanced Kubernetes Orchestration
+- Rust Systems Programming
+- Machine Learning Algorithms
+
 ## 🚀 Programming Languages
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -30,7 +42,7 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cong-minhh&layout=compact&theme=radical)
 
 ## 🔥 Streak Stats
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=cong-minhh&theme=onedark&hide_border=true)]
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=cong-minhh&theme=onedark&hide_border=true)](https://git.io/streak-stats)
 
 ## 💡 Featured Projects
 - 🎲 **Xiangqi Online Platform**
