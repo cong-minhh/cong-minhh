@@ -5,18 +5,6 @@
 - 🌱 Full-Stack Developer specializing in Web and Mobile Applications
 - 🔭 Open to collaborating on innovative projects
 
-## 🏆 Profile Highlights
-🌟 Professional Focus
-- 💻 Building scalable and efficient software solutions
-- 🔍 Exploring cutting-edge technologies
-- 🤝 Collaborative problem-solving
-- 🚀 Continuous learning and skill enhancement
-
-🎯 Current Learning Path
-- Advanced Kubernetes Orchestration
-- Rust Systems Programming
-- Machine Learning Algorithms
-
 ## 🚀 Programming Languages
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -60,6 +48,18 @@
 
 ## 📈 Activity Graph
 ![Activity Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cong-minhh&theme=radical)
+
+## 🏆 Profile Highlights
+🌟 Professional Focus
+- 💻 Building scalable and efficient software solutions
+- 🔍 Exploring cutting-edge technologies
+- 🤝 Collaborative problem-solving
+- 🚀 Continuous learning and skill enhancement
+
+🎯 Current Learning Path
+- Advanced Kubernetes Orchestration
+- Rust Systems Programming
+- Machine Learning Algorithms
 
 ## 🤝 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourusername)
