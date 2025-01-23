@@ -1,62 +1,69 @@
-# Hi there! 👋 I'm Cong Minh
+# Hi there! 👋 I'm [Your Name]
 
 ## 🚀 About Me
-- 💻 Software Engineer | Tech Innovator
-- 🌱 Passionate about building scalable solutions
-- 🔭 Exploring the intersections of software engineering and innovation
+Software Engineering student passionate about full-stack development and innovative technology solutions.
 
-## 🚀 Programming Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+## 💻 Skills
+
+### Programming Languages
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
-## 🔧 Frameworks & Technologies
-![.NET Core](https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
-
-## 🛠️ Additional Tech Stack
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+### Frontend Technologies
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Material-UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-## 📊 GitHub Analytics
+### Backend Technologies
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 
-### 🔥 GitHub Stats
-![Cong Minh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=cong-minhh&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
+### Databases
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### 🌟 Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cong-minhh&layout=compact&theme=radical)
+## 🎓 Education
+**Eastern International University**
+- Major: Software Engineering
+- GPA: 3.61
 
-### 🔥 Streak Stats
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=cong-minhh&theme=radical&hide_border=true)](https://git.io/streak-stats)
+## 🚀 Featured Projects
 
-## 🏆 Achievements & Contributions
-![Profile Views](https://komarev.com/ghpvc/?username=cong-minhh&color=brightgreen)
+### 1. Xiangqi Online Platform
+- **Technologies:** Next.js 15, TypeScript, MongoDB
+- **Highlights:** 
+  - Real-time multiplayer gameplay
+  - Secure authentication with NextAuth.js
+  - Dynamic UI with state management
 
-### 📈 Contribution Graph
-![Activity Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cong-minhh&theme=radical)
+### 2. Lumine Library Management System
+- **Technologies:** Spring Boot, React TypeScript, Material-UI
+- **Highlights:**
+  - Microservices architecture
+  - JWT authentication
+  - Role-based access control
+  - Real-time book tracking
 
-## 💡 Featured Projects
-- 🚀 [Project Nexus](https://github.com/cong-minhh/project-nexus) - Advanced microservices architecture
-- 🌐 [Web Toolkit](https://github.com/cong-minhh/web-toolkit) - Comprehensive web development utilities
-- 🤖 [AI Playground](https://github.com/cong-minhh/ai-playground) - Experimental machine learning projects
+### 3. SpendWise Mobile Financial Tracker
+- **Technologies:** React Native, Supabase
+- **Highlights:**
+  - Cross-platform financial management
+  - Real-time transaction tracking
+  - Custom animations
+  - Offline capabilities
 
-## 🌐 Coding Platforms
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/your-leetcode-profile)
-[![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/your-hackerrank-profile)
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cong-minhh&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cong-minhh&layout=compact&theme=radical)
 
 ## 🤝 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-profile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-twitter-handle)
-[![Personal Website](https://img.shields.io/badge/Website-3766D6?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.yourpersonalwebsite.com)
-
-## 🎨 Interesting Dev Quote
-> "Code is poetry in motion, and every algorithm tells a story." - Anonymous Developer
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cong-minhh)
 
 ---
-*Crafted with curiosity and passion* 💻✨
+*Crafting digital solutions, one line of code at a time* 💻✨
