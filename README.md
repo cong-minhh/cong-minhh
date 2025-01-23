@@ -1,40 +1,55 @@
-# Hi there! 👋 I'm Minh
+# Hi there! 👋 I'm Duc
 
 ## 🚀 About Me
-A passionate developer with a love for innovative technology and solving complex problems. My journey in tech is driven by curiosity and a commitment to continuous learning.
+- 💻 Software Developer | Tech Enthusiast
+- 🌱 Currently learning [Your Current Focus]
+- 🔭 Open to collaborating on interesting projects
 
-## 💼 Professional Summary
-[Brief professional tagline/summary highlighting your core expertise and professional goal]
+## 🚀 Programming Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
-## 🛠️ Tech Stack
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-<!-- Add more technology badges -->
+## 🔧 Frameworks & Technologies
+![.NET Core](https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdot-js&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
+
+## 🛠️ Additional Tech Stack
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cong-minhh&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cong-minhh&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hien-duc&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hien-duc&layout=compact&theme=radical)
 
-## 🌟 Featured Projects
-### [Project Name 1](https://github.com/yourusername/project1)
-Brief description of the project, technologies used, and key features.
-
-### [Project Name 2](https://github.com/yourusername/project2)
-Another project description highlighting your skills and innovation.
+## 🔥 Streak Stats
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=hien-duc&theme=onedark&hide_border=true)](https://git.io/streak-stats)
 
 ## 🏆 Achievements
-- [List significant professional or personal achievements]
-- [Certifications, awards, or notable recognitions]
+![Profile Views](https://komarev.com/ghpvc/?username=hien-duc&color=green)
 
-## 📬 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cong-minhh)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/cong-minhh)
-[![Personal Website](https://img.shields.io/badge/Website-3766D6?style=flat-square&logo=googlechrome&logoColor=white)](https://www.yourwebsite.com)
+## 📈 Activity Graph
+![Activity Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hien-duc&theme=radical)
 
-## 👀 Profile Views
-![Profile Views](https://komarev.com/ghpvc/?username=cong-minhh&color=green)
+## 🤝 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourusername)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
+
+## 💡 Recent Projects
+- [Project 1 Name](link-to-project) - Short description
+- [Project 2 Name](link-to-project) - Short description
+
+## 📝 Blog & Writing
+- [Blog Post 1 Title](link-to-post)
+- [Blog Post 2 Title](link-to-post)
+
+## 🎵 Fun Fact
+> "Insert an interesting or funny quote about yourself or your coding journey"
 
 ---
-*Continuously learning, always improving* 🌱
+*Readme generated with ❤️ by [Your Name]*
