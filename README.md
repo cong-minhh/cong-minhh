@@ -1,5 +1,5 @@
-# Hi there! 👋 I'm Công Minh  
-
+# Hi there! 👋 I'm Cong Minh
+<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Hello, I'm Minh. I do open source!" src="./assets/gh-readme-header.png" /></a></p>
 ## 🌐 Summary about me  
 - 💻 Software Developer | Tech Enthusiast  
 - 🌱 Full-Stack Developer specializing in Web and Mobile Applications  
@@ -54,15 +54,16 @@
 - 💻 Building scalable and efficient software solutions  
 - 🔍 Exploring cutting-edge technologies  
 - 🤝 Collaborative problem-solving  
-- 🚀 Continuous learning and skill enhancement  
+- 🚀 Continuous learning and skill enhancement
+
 🎯 Current Learning Path  
 - Advanced Rust Concurrency  
 - Optimized Algorithm Design  
 - Exploring Distributed Systems  
 
 ## 🤝 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourusername)  
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourusername)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/yourusername](https://www.linkedin.com/in/minh-nguy%E1%BB%85n-c%C3%B4ng-843438255/))  
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)]([https://twitter.com/yourusername](https://x.com/MinhCCC4))  
 
 ---  
 *Continuously learning, always improving* 🌱
