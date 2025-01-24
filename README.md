@@ -1,12 +1,7 @@
 # Hi there! 👋 I'm Minh
+
 ## 🌐 About Me
-
-👨‍💻 I am **Nguyễn Công Minh**, a passionate **Software Developer** and tech enthusiast with a strong focus on creating impactful web and mobile applications.  
-💡 As a **Full-Stack Developer**, I specialize in building end-to-end solutions that seamlessly blend functionality and user experience.  
-🚀 I thrive on innovation and am always eager to collaborate on projects that challenge the status quo and drive meaningful change.  
-🤝 With a proactive and enthusiastic approach, I am open to opportunities to contribute to cutting-edge initiatives and make a lasting impact in the tech industry. 
-
-✨ Let's create something amazing together!
+I am Nguyễn Công Minh, a passionate Software Developer with expertise in Full-Stack Development for web and mobile applications. Enthusiastic about innovation and user-focused design, I thrive on collaborating in forward-thinking projects that drive meaningful impact through technology.  
 
 
 ## 🚀 Programming Languages  
@@ -66,8 +61,7 @@
 - Exploring Distributed Systems  
 
 ## 🤝 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/yourusername](https://www.linkedin.com/in/minh-nguy%E1%BB%85n-c%C3%B4ng-843438255/))  
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)]([https://twitter.com/yourusername](https://x.com/MinhCCC4))  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/yourusername](https://www.linkedin.com/in/minh-nguy%E1%BB%85n-c%C3%B4ng-843438255/))[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)]([https://twitter.com/yourusername](https://x.com/MinhCCC4))
 
 ---  
 *Continuously learning, always improving* 🌱
