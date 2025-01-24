@@ -1,9 +1,13 @@
-# Hi there! 👋 I'm Cong Minh
-<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Hello, I'm Minh. I do open source!" src="./assets/gh-readme-header.png" /></a></p>
-## 🌐 Summary about me  
-- 💻 Software Developer | Tech Enthusiast  
-- 🌱 Full-Stack Developer specializing in Web and Mobile Applications  
-- 🔭 Open to collaborating on innovative projects  
+# Hi there! 👋 I'm Minh
+## 🌐 About Me
+
+👨‍💻 I am **Nguyễn Công Minh**, a passionate **Software Developer** and tech enthusiast with a strong focus on creating impactful web and mobile applications.  
+💡 As a **Full-Stack Developer**, I specialize in building end-to-end solutions that seamlessly blend functionality and user experience.  
+🚀 I thrive on innovation and am always eager to collaborate on projects that challenge the status quo and drive meaningful change.  
+🤝 With a proactive and enthusiastic approach, I am open to opportunities to contribute to cutting-edge initiatives and make a lasting impact in the tech industry. 
+
+✨ Let's create something amazing together!
+
 
 ## 🚀 Programming Languages  
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
