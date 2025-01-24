@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Minh
 
 ## 🌐 About Me
-I am Nguyễn Công Minh, a passionate Software Developer with expertise in Full-Stack Development for web and mobile applications. Enthusiastic about innovation and user-focused design, I thrive on collaborating in forward-thinking projects that drive meaningful impact through technology.  
+I am `Nguyễn Công Minh`, a passionate `Software Developer` with expertise in Full-Stack Development for web and mobile applications. Enthusiastic about innovation and user-focused design, I thrive on collaborating in forward-thinking projects that drive meaningful impact through technology.  
 
 
 ## 🚀 Programming Languages  
@@ -25,8 +25,8 @@ I am Nguyễn Công Minh, a passionate Software Developer with expertise in Full
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ## 📊 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cong-minhh&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cong-minhh&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cong-minhh&show_icons=true&theme=onedark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cong-minhh&layout=compact&theme=onedark)
 
 ## 🔥 Contribution Insights
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=cong-minhh&theme=onedark&hide_border=true)](https://git.io/streak-stats)
@@ -46,7 +46,7 @@ I am Nguyễn Công Minh, a passionate Software Developer with expertise in Full
 ![Profile Views](https://komarev.com/ghpvc/?username=cong-minhh&color=green)
 
 ## 📈 Activity Graph  
-![Activity Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cong-minhh&theme=radical)
+![Activity Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cong-minhh&theme=onedark)
 
 ## 🏆 Profile Highlights  
 🌟 Professional Focus  
