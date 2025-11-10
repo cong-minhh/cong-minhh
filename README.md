@@ -5,15 +5,21 @@ I am Nguyễn Công Minh, a passionate Software Developer with expertise in Full
 
 ---
 
-## Tech Stack
-**Programming Languages:**  
-TypeScript • Java • C# • Rust  
+## Tech Stack  
 
-**Frameworks & Technologies:**  
-React • Next.js • Material-UI • Node.js • Spring Boot  
-
-**Additional Tools & Platforms:**  
-Supabase • React Native • MongoDB • PostgreSQL  
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Rust](https://img.shields.io/badge/-Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![React](https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Material-UI](https://img.shields.io/badge/-MUI-0081CB?style=for-the-badge&logo=mui&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Supabase](https://img.shields.io/badge/-Supabase-181818?style=for-the-badge&logo=supabase&logoColor=3ECF8E)
+![React Native](https://img.shields.io/badge/-React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
 
