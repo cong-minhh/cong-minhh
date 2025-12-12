@@ -2,7 +2,7 @@
 
 **Software Developer**
 
-🌐 **Portfolio:** [my-portfolio-cong-minhh.vercel.app](https://my-portfolio-cong-minhh.vercel.app)
+**My Portfolio:** [my-portfolio-cong-minhh.vercel.app](https://my-portfolio-cong-minhh.vercel.app)
 
 ---
 
