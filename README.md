@@ -56,6 +56,6 @@ I build applications that handle data using databases like PostgreSQL and MongoD
 ---
 
 ## Connect
-[LinkedIn](https://www.linkedin.com/in/minh-nguy%E1%BB%85n-c%C3%B4ng-843438255) • [Twitter](https://x.com/MinhCCC4)
+[LinkedIn](https://www.linkedin.com/in/minh-nguy%E1%BB%85n-c%C3%B4ng-843438255) • [Twitter](https://x.com/MinhCCC4) • [Portfolio](https://my-portfolio-cong-minhh.vercel.app)
 
 *Building reliable software, one line at a time.*
