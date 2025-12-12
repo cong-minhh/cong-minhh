@@ -1,9 +1,5 @@
 # Hi there! I'm Minh
 
-**Software Developer**
-
-**My Portfolio:** [my-portfolio-cong-minhh.vercel.app](https://my-portfolio-cong-minhh.vercel.app)
-
 ---
 
 ## About Me
